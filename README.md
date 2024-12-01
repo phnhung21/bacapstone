@@ -46,7 +46,7 @@ Ensuring interpretability through tools like SHAP, making the model outputs acti
 
 
 
-Citation
+## Citation
 
 Adebiyi, S. O., Oyatoye, E. O., & Amole, B. B. (2016).
 	Relevant drivers for customers’ churn and retention decision in the Nigerian mobile 
@@ -56,13 +56,17 @@ Adebiyi, S. O., Oyatoye, E. O., & Amole, B. B. (2016).
 Hashmi, N. K., Butt, W. H., & Iqbal, M. J. (2013).		
 	Customer churn prediction in telecommunication: A decade review and classification. ResearchGate.
 	https://www.researchgate.net/publication/257920014
+ 
 Monani, D., Shukla, S., & Chauhan, A. (2016).
 	Comparative analysis of customer churn prediction techniques: A survey. International Research 
+ 
 Journal of Engineering and Technology, 3(4), 1168-1173.
 	https://www.irjet.net/archives/V3/i4/IRJET-V3I4213.pdf
+ 
 Zhang, M., Wu, J., & Zhou, X. (2023). Predictive models for customer churn: Exploring machine learning 
 	techniques and data challenges. Journal of Marketing Analytics, 11(2), 147–163. 
 	https://doi.org/10.1057/s41270-023-00269-9 
+ 
 Umayaparvathi, V., & Iyakutti, K. (2016).
 	A survey on customer churn prediction in telecom industry: Datasets, methods, and metrics. International Journal of Advanced 		Research in Computer Science and Software Engineering, 6(2), 50-55.
 	https://jati.sites.apiit.edu.my/files/2018/07/2018_Issue1_Paper2.pdf
