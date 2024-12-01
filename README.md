@@ -1,11 +1,11 @@
 # Telecom Customer Churn Predictor Analysis
 ## Nhung Pham
-## Advising Professor: Illya 
+## Advising Professor: Illya Mowerman
 ## Fairfield University
 ## Fall 2024
 
 # 1. Research Question & Data Acquisition
-Primary Question: What factors are the most significant predictors of customer churn, and how can a predictive model be developed to identify customers at risk of leaving
+Primary Question: What factors are the most significant predictors of customer churn, and how can a predictive model be developed to identify customers at risk of leaving?
 
 # 2. Introduction
 In today’s competitive business landscape, customer churn remains a critical challenge that directly impacts profitability and sustainable growth. Retaining customers is not only more cost-effective than acquiring new ones, but it also plays a vital role in sustaining long-term growth. Studies have shown that even a small improvement in customer retention can lead to substantial financial gains, making it crucial for companies to identify customers who are likely to leave before it happens (Kotler & Keller, 2012). This is where predictive analytics comes into play - an analysis that can help businesses pinpoint churn risks and take action to keep their customers.
