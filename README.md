@@ -43,6 +43,12 @@ Incorporating advanced feature engineering techniques to capture nuanced custome
 Utilizing machine learning algorithms, such as Gradient Boosting and Random Forest, to optimize predictive accuracy.
 Ensuring interpretability through tools like SHAP, making the model outputs actionable for business stakeholders.
 
+# 6. Discussion
+This study focused on predicting customer churn by leveraging a dataset from IBM’s Telco Customer Churn repository. An in-depth analysis of customer demographics, service usage, satisfaction levels, and churn behavior identified key drivers of churn and the Gradient Boosting Classifier as the best fit predicting model.
+
+Reducing customer churn requires a strategic, customer-centric approach that proactively addresses dissatisfaction and fosters loyalty. Enhancing customer experience is a critical first step, achieved through streamlined onboarding, personalized interactions, and proactive support. Building customer loyalty through reward programs, exclusive offers, and regular engagement campaigns helps create strong emotional connections with the brand. Pricing flexibility, including tiered plans and discounts for at-risk customers, also plays a significant role in retaining price-sensitive customers. Furthermore, improving the perceived value of services by offering value-added features, encouraging usage, and addressing root causes of dissatisfaction ensures customers see long-term benefits in staying.
+
+Predictive analytics and churn modeling provide an additional layer of effectiveness by identifying at-risk customers early, allowing for targeted interventions such as personalized outreach, loyalty incentives, or tailored support. Collecting and acting on customer feedback builds trust and ensures businesses address common pain points. By fostering stronger relationships, monitoring sentiment, and continuously improving offerings, organizations can minimize churn, optimize resource allocation, and boost customer satisfaction. Ultimately, these strategies enable businesses to strengthen customer loyalty and achieve sustainable growth.
 
 
 
